@@ -1,0 +1,10 @@
+.demand-order-card-container {
+    border: 1px solid black;
+    width: 80%;
+    border-radius: 5px;
+    box-sizing: border-box;
+    padding: 10px 20px;
+}
+.admin-demand-order-quantities {
+    width: 100px;
+}
